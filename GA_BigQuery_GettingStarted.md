@@ -6,6 +6,9 @@ Pre-requisites:
 * A billing account that allows you access to BigQuery
 * A linked GA project 
 
+# Understanding data hierarchies
+https://storage.googleapis.com/e-nor/visualizations/bigquery/ga360-schema.html#section-collapsible-tree 
+
 ## Import data from Cloud Storage to BigQuery
 https://console.cloud.google.com/ 
 
